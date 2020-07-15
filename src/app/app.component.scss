@@ -1,0 +1,14 @@
+section {
+display: flex;
+justify-content: center;
+height: 100vh;
+background-color: linear-gradient(to right,blue,purple);
+}
+article {
+    text-align: center;
+    
+    border:1px solid white;
+    padding:40px;
+    box-shadow: 1px 1px 100px 10px rgba(0,0,0,0.8);
+
+}
